@@ -35,4 +35,4 @@
     GoogleAuthProvider,
   }
 
-  
+  ///////////// now it's connected to firebase ///////////////
